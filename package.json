@@ -1,0 +1,24 @@
+{
+  "name": "oprime-sample-assets",
+  "description": "OPrime HTML5 Experimentation assets sample",
+  "version": "0.0.2",
+  "author": "fielddb <opensource@fielddb.org>",
+  "homepage": "https://github.com/cesine/OPrime/issues/milestones?state=closed",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cesine/OPrimeExperimentSampleAssets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cesine/OPrime/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "exclude": [
+  ],
+  "license": "Apache 2.0",
+  "licenses": [{
+    "type": "Apache 2.0"
+  }]
+}
